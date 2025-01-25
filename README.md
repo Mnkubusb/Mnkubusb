@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Manik Chand Sahu  a Full stack Web Developer</h2>
+<h2 align="left">Hi 👋! My name is Manik Chand Sahu , a Full stack Web Developer</h2>
 
 ###
 
