@@ -2,13 +2,6 @@
 
 ###
 
-<style>
-#img{
-  background-color: black;
-}
-  
-</style>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mnkubusb&label=Profile%20views&color=0e75b6&style=flat" alt="mnkubusb" /> </p>
 
 <p align="left" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img id="img" src="https://github-profile-trophy.vercel.app/?username=mnkubusb" alt="mnkubusb" /></a> </p
