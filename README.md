@@ -3,9 +3,6 @@
 
 ###
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mnkubusb&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ###
 
 <div align="left">
@@ -36,6 +33,9 @@
 ###
 
 <img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Mnkubusb&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ###
 
