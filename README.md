@@ -1,8 +1,10 @@
 <h2 align="left">Hi 👋! My name is Manik Chand Sahu , a Full stack Web Developer</h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mnkubusb&label=Profile%20views&color=0e75b6&style=flat" alt="mnkubusb" /> </p>
 
 ###
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mnkubusb&label=Profile%20views&color=0e75b6&style=flat" alt="mnkubusb" /> </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Mnkubusb&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ###
 
