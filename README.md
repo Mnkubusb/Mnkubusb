@@ -1,4 +1,4 @@
-<img width=100% title="MANIK CHAND SAHU" alt="MANIK CHAND SAHU" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=MANIK CHAND SAHU&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=45"/>
+<img width=100% title="MANIK CHAND SAHU" alt="MANIK CHAND SAHU" src="https://capsule-render.vercel.app/api?type=waving&height=234&color=gradient&text=MANIK%20CHAND%20SAHU&textBg=false&fontAlign=50&fontAlignY=38"/>
 
 <table border="0">
  <tr>
@@ -138,7 +138,7 @@ func main() {
 
 ### 📊 GitHub States
 <p align="center">
-<a href="https://github.com/Mnkubusb"><img width="35%" src="https://github-contributor-stats.vercel.app/api?username=Mnkubusb&limit=5&theme=dark&combine_all_yearly_contributions=true" /><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mnkubusb&theme=dark&hide_border=false" />
+<a href="https://github.com/Mnkubusb"><img width="35%" src="https://github-contributor-stats.vercel.app/api?username=Mnkubusb&limit=5&theme=dark&combine_all_yearly_contributions=true" /><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Mnkubusb" alt="GitHub Streak" /></a>
  </a></p>
 <p align="center">
 <a href="https://github.com/Mnkubusb">
