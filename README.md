@@ -147,7 +147,7 @@ func main() {
 </p>
 
 
-<!-- Contribution Snake -->
+<!-- Contribution PacMan -->
 
 ###
 
