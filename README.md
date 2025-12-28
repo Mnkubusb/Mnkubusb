@@ -4,8 +4,8 @@
  <tr>
     <td>
       <br>
-     <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?ont=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Manik Chand Sahu;"/>
-     <img width="150" align="center" src="https://komarev.com/ghpvc/?username=Mnkubusb&label=Profile%20Visitor&color=071A2C&style=for-the-badge" alt="U7P4L-IN"/>
+     <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+There!+%F0%9F%91%8B+I'm+Manik+Chand+Sahu" alt="Typing SVG" />
+     <img width="150" align="center" src="https://komarev.com/ghpvc/?username=Mnkubusb&label=Profile%20Visitor&color=071A2C&style=for-the-badge" alt="Mnkubusb"/>
       <br>
       <img width="280" align="center" src="https://github-widgetbox.vercel.app/api/profile?username=Mnkubusb&data=followers,repositories,stars,commits&theme=viridescent"/>
     <td>
