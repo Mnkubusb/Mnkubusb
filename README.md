@@ -34,7 +34,7 @@ func main() {
   var me = new(Person)
   
   me.name     = "MANIK CHAND SAHU"
-  me.username = "MANIK CHAND SAHU"
+  me.username = "Mnkubusb"
   me.age      = "22"
   me.job      = "Full Stack Web and App developer"
   me.hobbies  = []string{"code", "anime", "music"," gaming"}
