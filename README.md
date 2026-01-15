@@ -17,29 +17,25 @@
 <h2 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">MY INFORMATION :
 </b></h3>
 
-```go
-package main
-
-import "fmt"
-
-type Person struct {
-  name string
-  username string
-  age int
-  hobbies []string
-  job string
+```typescript
+interface Person {
+  name: string;
+  username: string;
+  age: number;
+  hobbies: string[];
+  job: string;
 }
 
-func main() {
-  var me = new(Person)
-  
-  me.name     = "MANIK CHAND SAHU"
-  me.username = "Mnkubusb"
-  me.age      = "22"
-  me.job      = "Full Stack Web and App developer"
-  me.hobbies  = []string{"code", "anime", "music"," gaming"}
-  
-  fmt.Println(me)
+const me: Person = {
+  name: "MANIK CHAND SAHU",
+  username: "Mnkubusb",
+  age: 22,
+  job: "Full Stack Web and App developer",
+  hobbies: ["code", "anime", "music", "gaming"],
+};
+
+console.log(me);
+
 }
 ```
 <!-- 
